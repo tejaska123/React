@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+}
+html{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: rgba(237, 100, 237, 0.158);
+    margin:0;
+    box-sizing: border-box;
+}
+
+body{
+    margin:0;
+}
